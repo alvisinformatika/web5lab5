@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Pemasukan Data</title>
+</head>
+<body>
+Percobaan memakai javascript:<br>
+<script language = "javascript">
+    var nama = prompt ("siapa nama anda?","masukan nama anda");
+    document.write("hai,"+nama);
+</script>
+</body>
+</html>
