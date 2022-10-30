@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <title>alert box</title>
+        <body>
+            <script language = "JavaScript">
+                !--
+                    window.alert("ini merupakan pesan untuk anda");
+                    //-->
+            </script>
+        </body>
+        </html>
